@@ -1,0 +1,7 @@
+C:\Users\danis\Desktop\Intensivo de C#\PraticandoFuncoes\bin\Debug\PraticandoFuncoes.exe.config
+C:\Users\danis\Desktop\Intensivo de C#\PraticandoFuncoes\bin\Debug\PraticandoFuncoes.exe
+C:\Users\danis\Desktop\Intensivo de C#\PraticandoFuncoes\bin\Debug\PraticandoFuncoes.pdb
+C:\Users\danis\Desktop\Intensivo de C#\PraticandoFuncoes\obj\Debug\PraticandoFuncoes.csproj.AssemblyReference.cache
+C:\Users\danis\Desktop\Intensivo de C#\PraticandoFuncoes\obj\Debug\PraticandoFuncoes.csproj.CoreCompileInputs.cache
+C:\Users\danis\Desktop\Intensivo de C#\PraticandoFuncoes\obj\Debug\PraticandoFuncoes.exe
+C:\Users\danis\Desktop\Intensivo de C#\PraticandoFuncoes\obj\Debug\PraticandoFuncoes.pdb
